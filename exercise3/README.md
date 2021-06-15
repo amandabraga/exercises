@@ -9,3 +9,8 @@ For running the tests, make sure you have *pytest* installed and run:
 ```
 pytest
 ```
+or
+
+```
+python -m pytest
+```
